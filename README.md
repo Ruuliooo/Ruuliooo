@@ -1,4 +1,4 @@
-# Salut, je suis Ruuliooo! 👋
+# Salut, je suis Jules! 👋
 
 * 🙋‍♂️ À propos de moi
 * 👨‍💻 Je suis entrain de travailer sur l'un de mes gros projets, qui est de développer une application diriger vers le monde de l'e-sport et des associations e-sportives.
