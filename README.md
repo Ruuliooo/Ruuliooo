@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/-PHP-777BB3?style=flat-rounded&logo=php&logoColor=fff)](https://www.php.net/manual/fr/intro-whatis.php)
 [![](https://img.shields.io/badge/-HTML-E44F26?style=flat-rounded&logo=html5&logoColor=fff)](https://developer.mozilla.org/fr/docs/Web/HTML)
 [![](https://img.shields.io/badge/MySQL-darkblue?style=flat-rounded&logo=mysql)](https://www.mysql.com/fr/)
-[![](https://badges.frapsoft.com/javascript/code/javascript.png?v=101)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![]([https://badges.frapsoft.com/javascript/code/javascript.png?v=101)](https://developer.mozilla.org/fr/docs/Web/JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=flat-rounded&logo=javascript&logoColor=fff))
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0077BB?style=flat-rounded&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/OS-Windows-blue?style=flat-rounded&logo=windows)](https://www.microsoft.com/fr-fr/windows?r=1)
