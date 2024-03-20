@@ -9,7 +9,7 @@
 * 💬 N'hésitez pas à me contacter pour la moindre question !
 * 📫 Comment me joindre: Jules.suire.pro@gmail.com
 * 🧗‍♂️ Dans mon temps libre, j'aime faire du sport et bouffer du code comme dirait Zuckerberg.
-* ⚡️ Fun fact: je n'aime pas le PHP mais j'en fais !
+* ⚡️ Fun fact: J'adore Linkedin !
 
 ## 🚀 Langues et Outils:
 [![](https://img.shields.io/badge/-Python-346E9E?style=flat-rounded&logo=python&logoColor=FFDA4A)](https://www.python.org/)
