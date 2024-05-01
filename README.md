@@ -3,7 +3,7 @@
 ---
 
 ## 🙋‍♂️ À propos de moi
-* 👨‍💻 Je suis entrain de travailer sur l'un de mes gros projets, qui est de développer une application diriger vers le monde de l'e-sport et des associations e-sportives.
+* 👨‍💻 Je suis entrain de travailer sur l'un de mes gros projets, qui est de développer une entreprise.
 * 📚 Je suis actuellement en 1ere année de BTS !
 * 🤔 Je cherche de l'aide / des conseils par rapport à l'utilisation de GitHub :)
 * 💬 N'hésitez pas à me contacter pour la moindre question !
