@@ -3,8 +3,7 @@
 ---
 
 ## 🙋‍♂️ À propos de moi
-* 👨‍💻 Je suis entrain de travailer sur l'un de mes gros projets, qui est de développer une entreprise qui vient faire de l'idée une réalité numérique.
-* 📚 Je suis actuellement en 1ere année de BTS !
+* 📚 Je suis actuellement en 2ieme année de BTS !
 * 🤔 Je cherche de l'aide / des conseils par rapport à l'utilisation de GitHub :)
 * 💬 N'hésitez pas à me contacter pour la moindre question !
 * 📫 Comment me joindre: Jules.suire.pro@gmail.com
