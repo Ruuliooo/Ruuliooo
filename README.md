@@ -7,8 +7,7 @@
 * 🤔 Je cherche de l'aide / des conseils par rapport à l'utilisation de GitHub :)
 * 💬 N'hésitez pas à me contacter pour la moindre question !
 * 📫 Comment me joindre: Jules.suire.pro@gmail.com
-* 🧗‍♂️ Dans mon temps libre, j'aime faire du sport et bouffer du code comme dirait Zuckerberg.
-* ⚡️ Fun fact: J'adore Linkedin !
+* 🧗‍♂️ Dans mon temps libre, j'aime faire du sport
 
 ## 🚀 Langues et Outils:
 [![](https://img.shields.io/badge/-Python-346E9E?style=flat-rounded&logo=python&logoColor=FFDA4A)](https://www.python.org/)
