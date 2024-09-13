@@ -33,7 +33,7 @@
 
   ## 💖 Soutenir
   
-  Si vous aimez ce que je fais, peut-être envisager de m'acheter un café. 🥺👉👈
+  Si vous aimez ce que je fais, peut-être envisager de m'acheter un café ;)
   
   [![Ko-Fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rulio)
   
