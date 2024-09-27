@@ -30,11 +30,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/Ruuliooo)
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=instagram)](https://www.instagram.com/julesuire/)
 [![Discord](https://img.shields.io/badge/juulioo.%E2%80%8E%20-black?style=flat-rounded&logo=discord)](discordapp.com/users/1138921300480499712)
-
-  ## 💖 Soutenir
-  
-  Si vous aimez ce que je fais, peut-être envisager de m'acheter un café ;)
-  
-  [![Ko-Fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rulio)
-  
-  ---
