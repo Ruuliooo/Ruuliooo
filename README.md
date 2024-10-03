@@ -2,11 +2,11 @@
 [![Langages](https://skillicons.dev/icons?i=js,html,css,java,flutter,docker,cs,py,tailwind,php,mysql,bootstrap)]()
 
 ## 🚀 Outils:
-[![Outils](https://skillicons.dev/icons?i=wordpress,ubuntu,linux,windows,debian,github,bash,figma)]()
+[![Outils](https://skillicons.dev/icons?i=wordpress,ubuntu,linux,windows,debian,bash,figma)]()
 ## 🚀 Outils d'éditions:
 [![Langages](https://skillicons.dev/icons?i=vscode,pycharm,phpstorm,notion,idea,sublime,md)]()
 ## 🚀 Outils externes:
-[![Langages](https://skillicons.dev/icons?i=unity,blender,arduino,gmail,linkedin,discord,bots)]()
+[![Langages](https://skillicons.dev/icons?i=unity,blender,arduino,github,gmail,linkedin,discord,bots)]()
 
 ## 📊 Mon activité GitHub
 
