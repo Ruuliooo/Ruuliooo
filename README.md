@@ -1,5 +1,5 @@
 ## 🚀 Languages:
-[![Langages](https://skillicons.dev/icons?i=js,html,css,java,flutter,docker,cs,py,tailwind,php,mysql,bootstrap)]()
+[![Langages](https://skillicons.dev/icons?i=js,html,css,bootstrap,docker,cs,java,flutter,py,tailwind,php,mysql)]()
 
 ## 🚀 Outils:
 [![Outils](https://skillicons.dev/icons?i=wordpress,ubuntu,linux,windows,debian,bash,figma)]()
