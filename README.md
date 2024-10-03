@@ -1,8 +1,8 @@
-## 🚀 Langues et Outils:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,flutter,docker,cs,py,tailwind)]()
+## 🚀 Languages:
+[![Langages](https://skillicons.dev/icons?i=js,html,css,java,flutter,docker,cs,py,tailwind,php,sql)]()
 
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0077BB?style=flat-rounded&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/OS-Windows-blue?style=flat-rounded&logo=windows)](https://www.microsoft.com/fr-fr/windows?r=1)
+## 🚀 Outils:
+[![Outils](https://skillicons.dev/icons?i=windows,wordpress,vscode,visualstudio,ubuntu,sublime,pycharm,phpstorm,notion,mysql,md,linux,idea,gmail,github,figma,discord,debian)]()
 
 ## 📊 Mon activité GitHub
 
