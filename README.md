@@ -6,7 +6,7 @@
 ## 🚀 Outils d'éditions:
 [![Langages](https://skillicons.dev/icons?i=vscode,pycharm,phpstorm,notion,idea,sublime,md)]()
 ## 🚀 Outils externes:
-[![Langages](https://skillicons.dev/icons?i=unity,blender,arduino,github,gmail,linkedin,discord,bots)]()
+[![Langages](https://skillicons.dev/icons?i=unity,blender,github,gmail,linkedin,discord,bots)]()
 
 ## 📊 Mon activité GitHub
 
