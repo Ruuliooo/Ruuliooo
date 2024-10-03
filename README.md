@@ -1,5 +1,5 @@
 ## 🚀 Langues et Outils:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,C#,MySql,Figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,C#,MySql,Figma)]()
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0077BB?style=flat-rounded&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/OS-Windows-blue?style=flat-rounded&logo=windows)](https://www.microsoft.com/fr-fr/windows?r=1)
