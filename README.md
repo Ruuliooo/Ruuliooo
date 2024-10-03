@@ -11,7 +11,7 @@
 
 ## 🚀 Langues et Outils:
 [![](https://img.shields.io/badge/-Python-346E9E?style=flat-rounded&logo=python&logoColor=FFDA4A)](https://www.python.org/)
-[![](https://img.shields.io/badge/-PHP-777BB3?style=flat-rounded&logo=php&logoColor=fff)](https://www.php.net/manual/fr/intro-whatis.php)
+[![](https://img.shields.io/badge/-PHP-777BB3?style=flat-rounded&logo=php&logoColor=fff)](https://www.php.net/)
 [![](https://img.shields.io/badge/-HTML-E44F26?style=flat-rounded&logo=html5&logoColor=fff)](https://developer.mozilla.org/fr/docs/Web/HTML)
 [![](https://img.shields.io/badge/MySQL-darkblue?style=flat-rounded&logo=mysql)](https://www.mysql.com/fr/)
 [![](https://img.shields.io/badge/-Javascript-yellow?style=flat-rounded&logo=javascript&logoColor=fff)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
