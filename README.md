@@ -13,7 +13,7 @@
 
 ## 📫 Me joindre
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://fr.linkedin.com/in/jules-suire-ba1a18291)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/Ruuliooo)
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=instagram)](https://www.instagram.com/julesuire/)
-[![Discord](https://img.shields.io/badge/juulioo.%E2%80%8E%20-black?style=flat-rounded&logo=discord)](discordapp.com/users/1138921300480499712)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/julesuire/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/H6942CWPuU)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://fr.linkedin.com/in/jules-suire-ba1a18291)
+
