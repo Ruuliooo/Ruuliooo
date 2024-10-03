@@ -14,10 +14,6 @@
 
 ## 📫 Me joindre
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/julesuire/){:target="_blank"}
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/H6942CWPuU){:target="_blank"}
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://fr.linkedin.com/in/jules-suire-ba1a18291){:target="_blank"}
-<a href="https://fr.linkedin.com/in/jules-suire-ba1a18291" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
-</a>
-
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/julesuire/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/H6942CWPuU)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://fr.linkedin.com/in/jules-suire-ba1a18291)
