@@ -8,10 +8,6 @@
 ## 🚀 Outils externes:
 [![Langages](https://skillicons.dev/icons?i=unity,blender,github,gmail,linkedin,discord,bots)]()
 
-## 📊 Mon activité GitHub
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ruuliooo)](https://git.io/streak-stats)
-
 ## 📫 Me joindre
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/julesuire/)
