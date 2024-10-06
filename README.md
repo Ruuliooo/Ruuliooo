@@ -10,7 +10,7 @@
 
 ## 📊 Mon activité GitHub
 
-![Ruuliooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruuliooo&theme=vue-dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ruuliooo)](https://git.io/streak-stats)
 
 ## 📫 Me joindre
 
