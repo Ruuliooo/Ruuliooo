@@ -4,7 +4,7 @@
 ## 🚀 Outils:
 [![Outils](https://skillicons.dev/icons?i=wordpress,docker,ubuntu,linux,windows,debian,bash,figma,)]()
 ## 🚀 Outils d'éditions:
-[![Langages](https://skillicons.dev/icons?i=vscode,pycharm,phpstorm,notion,idea,sublime,md)]()
+[![Langages](https://skillicons.dev/icons?i=vscode,pycharm,phpstorm,idea,sublime,md,notion)]()
 ## 🚀 Outils externes:
 [![Langages](https://skillicons.dev/icons?i=unity,blender,github,gmail,linkedin,discord,bots)]()
 
