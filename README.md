@@ -1,11 +1,11 @@
-## 🚀 Languages:
+## 🔤 Languages:
 [![Langages](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dart,java,flutter,py,tailwind,php,mysql)]()
 
 ## 🚀 Outils:
 [![Outils](https://skillicons.dev/icons?i=wordpress,docker,ubuntu,linux,windows,debian,bash,figma,)]()
-## 🚀 Outils d'éditions:
+## 📝 Outils d'éditions:
 [![Langages](https://skillicons.dev/icons?i=vscode,pycharm,phpstorm,idea,sublime,md,notion)]()
-## 🚀 Outils externes:
+## 📍 Outils externes:
 [![Langages](https://skillicons.dev/icons?i=unity,blender,github,gmail,linkedin,discord,bots)]()
 
 ## 📫 Me joindre
