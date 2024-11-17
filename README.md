@@ -1,7 +1,7 @@
 ## 🔤 Languages:
 [![Langages](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,java,flutter,py,tailwind,php,mysql)]()
 
-## 🚀 Outils:
+## 🚀 Outils & Environnements:
 [![Outils](https://skillicons.dev/icons?i=wordpress,docker,ubuntu,debian,linux,windows,bash,figma,)]()
 ## 📝 Outils d'éditions:
 [![Langages](https://skillicons.dev/icons?i=vscode,pycharm,phpstorm,idea,sublime,md,notion)]()
