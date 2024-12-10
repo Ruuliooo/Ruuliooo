@@ -1,5 +1,5 @@
 # 👨‍💻 Hello I'm Jules' !
-##  📚 I'm actually in advanced technician's certificate in computer science at La Rochelle !
+###  📚 I'm actually in advanced technician's certificate in computer science at La Rochelle !
 
 
 -----------------------------------------------------------------------------------------------------------------
