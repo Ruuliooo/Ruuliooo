@@ -1,6 +1,6 @@
 # 👨‍💻 Hello I'm Jules' !
 ### 📚 I'm actually in advanced technician's certificate in computer science at La Rochelle !
-### 🧷 You can follow me on [linkedIn](https://www.linkedin.com/in/jules-suire-ba1a18291/) !
+### 🧷 You can follow me on [linkedIn](https://www.linkedin.com/in/jules-suire-ba1a18291/) for help to upgrade my network !
 
 -----------------------------------------------------------------------------------------------------------------
 ## 🔤 Languages:
