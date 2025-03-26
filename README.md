@@ -5,7 +5,7 @@
 
 -----------------------------------------------------------------------------------------------------------------
 ## 🔤 Languages:
-[![Langages](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,java,flutter,py,tailwind,php,mysql,dart)]()
+[![Langages](https://skillicons.dev/icons?i=js,java,flutter,py,php,mysql)]()
 
 ## 🚀 Outils & Environnements:
 [![Outils](https://skillicons.dev/icons?i=wordpress,docker,ubuntu,debian,linux,windows,bash,figma,)]()
